@@ -27,7 +27,7 @@ to check Nginx process status.
 
 ## config Nginx on MacOS
 
-The default configure file of Nginx  is 
+The default configure file of Nginx  is
 
 ```bash
 root# /usr/local/etc/nginx/nginx.conf
@@ -41,7 +41,7 @@ root # /usr/local/etc/nginx
 
 to have a look.
 
-![NginxConfigFileForMac](NginxConfigFileForMac.png)
+![NginxConfigFileForMac](./imgs/NginxConfigFileForMac.png)
 
 ### Explaination of nginc.conf
 

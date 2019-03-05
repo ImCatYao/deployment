@@ -100,7 +100,7 @@ root@bogon src]# cd nginx-1.6.2
 
 At this step, you may meet a problem like following:
 
-![Make problem](./MakeFailed.png)
+![Make problem](./imgs/MakeFailed.png)
 
 The solution is explained in [https://blog.csdn.net/u010889616/article/details/82867091](https://blog.csdn.net/u010889616/article/details/82867091)
 
@@ -208,4 +208,4 @@ and check the this config file
 
 Congradulations, we installed Nginx on EC2 successfully.
 
-![Installed](InstallDone.png)
+![Installed](./imgs/InstallDone.png)
